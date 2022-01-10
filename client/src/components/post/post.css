@@ -25,8 +25,13 @@
     color: #be9656;
     line-height: 20px;
     margin-top: 15px;
+    margin-right: 3px;
     margin-bottom: 10px;
     cursor: pointer;
+}
+
+.postCat:hover{
+    color: purple
 }
 
 .postTitle {
